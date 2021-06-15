@@ -8,12 +8,12 @@ public class Main {
         FactorX.Sun=1;
         FactorX.Moon=3;
         FactorX.Planets=2;
-
+//2
         //working on sun features
         Sun Feron = new Sun();
         Feron.Heat="600000000000kj";
         Feron.Radius="0384029840928340km/2";
         Feron.Temprature="10000000000000000f";
-        
+
     }
 }
