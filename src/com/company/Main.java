@@ -15,5 +15,10 @@ public class Main {
         Feron.Radius="0384029840928340km/2";
         Feron.Temprature="10000000000000000f";
 
+        Panet2 pitaro=new Panet2();
+        pitaro.Redius="232323";
+        pitaro.Size="ver small";
+        
+
     }
 }
